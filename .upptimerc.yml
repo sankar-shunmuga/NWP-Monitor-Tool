@@ -10,7 +10,7 @@ sites:
   - name: Dental
     url: https://dental.hee.nhs.uk
   - name: Medical
-    url: https://mdeical.hee.nhs.uk
+    url: https://medical.hee.nhs.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
