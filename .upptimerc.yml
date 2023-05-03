@@ -19,8 +19,14 @@ sites:
     url: https://kfh.libraryservices.nhs.uk
   - name: Staging
     url: https://staging.hee.nhs.uk
+    expectedStatusCodes:
+      - 200      
+      - 401    
   - name: Webstie Testing
     url: https://website-testing.hee.nhs.uk
+    expectedStatusCodes:
+      - 200      
+      - 401
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
