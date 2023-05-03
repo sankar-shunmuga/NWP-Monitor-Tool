@@ -11,7 +11,17 @@ sites:
     url: https://dental.hee.nhs.uk
   - name: Medical
     url: https://medical.hee.nhs.uk
-
+  - name: GP Recruitment
+    url: https://gprecruitment.hee.nhs.uk
+  - name: GP Recruitment Prod
+    url: https://gprecruitment-prod.hee.nhs.uk
+  - name: KFH Library Services 
+    url: https://kfh.libraryservices.nhs.uk
+  - name: Staging
+    url: https://staging.hee.nhs.uk
+  - name: Webstie Testing
+    url: https://website-testing.hee.nhs.uk
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
