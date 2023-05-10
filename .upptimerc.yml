@@ -32,6 +32,11 @@ sites:
     expectedStatusCodes:
       - 200      
       - 401
+  - name: Workforce Training and Education
+    url: https://workforce-education.hee.nhs.uk
+    expectedStatusCodes:
+      - 200      
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
