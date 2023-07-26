@@ -4,10 +4,10 @@
     "url": "https://library.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/library.hee.nhs.uk.ico",
     "slug": "lks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
@@ -15,7 +15,9 @@
     "timeWeek": 691,
     "timeMonth": 669,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "Digital Transformation",
@@ -137,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "down",
-    "uptime": "60.81%",
+    "uptime": "60.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.95%",
-    "uptimeYear": "60.81%",
+    "uptimeMonth": "11.59%",
+    "uptimeYear": "60.51%",
     "time": 567,
     "timeDay": 399,
     "timeWeek": 373,
     "timeMonth": 453,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2023-07-26": 74,
+      "2023-07-26": 669,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
