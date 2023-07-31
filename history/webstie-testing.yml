@@ -1,7 +1,7 @@
 url: https://website-testing.hee.nhs.uk
-status: down
-code: 503
-responseTime: 233
-lastUpdated: 2023-07-31T21:32:18.935Z
+status: up
+code: 401
+responseTime: 275
+lastUpdated: 2023-07-31T21:42:54.735Z
 startTime: Wed May 03 2023 12:06:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
