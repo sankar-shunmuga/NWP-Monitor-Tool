@@ -1,7 +1,7 @@
 url: https://staging.hee.nhs.uk
-status: down
-code: 404
-responseTime: 664
-lastUpdated: 2023-11-26T23:17:19.669Z
+status: up
+code: 401
+responseTime: 245
+lastUpdated: 2023-11-27T13:48:34.239Z
 startTime: 2023-05-03T12:06:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
