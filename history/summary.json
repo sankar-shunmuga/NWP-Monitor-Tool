@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
-    "timeDay": 1136,
-    "timeWeek": 630,
-    "timeMonth": 574,
-    "timeYear": 579,
+    "timeDay": 487,
+    "timeWeek": 590,
+    "timeMonth": 572,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 363,
-    "timeDay": 368,
-    "timeWeek": 372,
+    "timeDay": 358,
+    "timeWeek": 371,
     "timeMonth": 374,
-    "timeYear": 364,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2023-07-06": 56
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 399,
-    "timeWeek": 522,
-    "timeMonth": 505,
-    "timeYear": 548,
+    "timeDay": 494,
+    "timeWeek": 532,
+    "timeMonth": 506,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 899,
-    "timeWeek": 620,
-    "timeMonth": 597,
-    "timeYear": 628,
+    "time": 628,
+    "timeDay": 864,
+    "timeWeek": 667,
+    "timeMonth": 608,
+    "timeYear": 629,
     "dailyMinutesDown": {}
   },
   {
@@ -85,13 +85,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 558,
-    "timeDay": 801,
-    "timeWeek": 609,
-    "timeMonth": 599,
+    "timeDay": 501,
+    "timeWeek": 616,
+    "timeMonth": 587,
     "timeYear": 558,
-    "dailyMinutesDown": {
-      "2023-05-03": 79
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GP Recruitment Prod",
@@ -105,13 +103,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 550,
-    "timeDay": 412,
-    "timeWeek": 539,
-    "timeMonth": 533,
+    "timeDay": 501,
+    "timeWeek": 517,
+    "timeMonth": 534,
     "timeYear": 550,
-    "dailyMinutesDown": {
-      "2023-05-03": 79
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KFH Library Services",
@@ -125,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 741,
-    "timeDay": 646,
-    "timeWeek": 773,
+    "timeDay": 630,
+    "timeWeek": 713,
     "timeMonth": 780,
     "timeYear": 741,
     "dailyMinutesDown": {}
@@ -137,18 +133,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "down",
-    "uptime": "37.17%",
+    "uptime": "37.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.17%",
-    "time": 460,
-    "timeDay": 303,
-    "timeWeek": 419,
-    "timeMonth": 367,
-    "timeYear": 460,
+    "uptimeYear": "37.07%",
+    "time": 459,
+    "timeDay": 326,
+    "timeWeek": 397,
+    "timeMonth": 369,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2024-05-01": 66,
+      "2024-05-02": 61,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -402,8 +399,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 660,
-      "2023-05-03": 27
+      "2023-05-05": 660
     }
   },
   {
@@ -418,13 +414,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 194,
-    "timeWeek": 209,
+    "timeDay": 224,
+    "timeWeek": 208,
     "timeMonth": 251,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2023-07-06": 19,
-      "2023-05-03": 27
+      "2023-07-06": 19
     }
   },
   {
@@ -439,13 +434,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 273,
-    "timeDay": 447,
-    "timeWeek": 295,
+    "timeDay": 242,
+    "timeWeek": 299,
     "timeMonth": 249,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2023-05-03": 85
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Workforce Education",
@@ -459,7 +452,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 343,
+    "timeDay": 216,
     "timeWeek": 258,
     "timeMonth": 253,
     "timeYear": 277,
