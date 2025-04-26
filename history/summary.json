@@ -42,18 +42,20 @@
     "url": "https://dental.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/dental.hee.nhs.uk.ico",
     "slug": "dental",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 637,
     "timeDay": 1185,
     "timeWeek": 768,
     "timeMonth": 774,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-26": 7
+    }
   },
   {
     "name": "Medical",
@@ -116,18 +118,16 @@
     "slug": "kfh-library-services",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
     "timeDay": 965,
     "timeWeek": 909,
     "timeMonth": 871,
     "timeYear": 812,
-    "dailyMinutesDown": {
-      "2025-04-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging",
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "down",
-    "uptime": "40.37%",
+    "uptime": "40.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -146,7 +146,7 @@
     "timeMonth": 448,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-26": 598,
+      "2025-04-26": 715,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
