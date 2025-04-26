@@ -98,18 +98,16 @@
     "slug": "gp-recruitment-prod",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 620,
     "timeDay": 2023,
     "timeWeek": 1130,
     "timeMonth": 778,
     "timeYear": 640,
-    "dailyMinutesDown": {
-      "2025-04-25": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KFH Library Services",
@@ -146,7 +144,8 @@
     "timeMonth": 448,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-25": 1420,
+      "2025-04-26": 85,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -356,8 +355,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
