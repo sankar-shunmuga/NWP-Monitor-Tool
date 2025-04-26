@@ -42,19 +42,19 @@
     "url": "https://dental.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/dental.hee.nhs.uk.ico",
     "slug": "dental",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 1185,
-    "timeWeek": 768,
-    "timeMonth": 774,
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 639,
+    "timeDay": 942,
+    "timeWeek": 759,
+    "timeMonth": 772,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-04-26": 7
+      "2025-04-26": 46
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 448,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-26": 715,
+      "2025-04-26": 755,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
