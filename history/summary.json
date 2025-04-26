@@ -114,19 +114,19 @@
     "url": "https://kfh.libraryservices.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kfh.libraryservices.nhs.uk.ico",
     "slug": "kfh-library-services",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 1308,
-    "timeWeek": 950,
-    "timeMonth": 879,
+    "time": 799,
+    "timeDay": 965,
+    "timeWeek": 909,
+    "timeMonth": 871,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-04-26": 0
+      "2025-04-26": 7
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 448,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-26": 591,
+      "2025-04-26": 598,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
