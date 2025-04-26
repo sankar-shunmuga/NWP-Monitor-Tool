@@ -114,9 +114,9 @@
     "url": "https://kfh.libraryservices.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kfh.libraryservices.nhs.uk.ico",
     "slug": "kfh-library-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 950,
     "timeMonth": 879,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   },
   {
     "name": "Staging",
@@ -133,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "down",
-    "uptime": "40.39%",
+    "uptime": "40.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -144,7 +146,7 @@
     "timeMonth": 448,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-04-26": 85,
+      "2025-04-26": 591,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
