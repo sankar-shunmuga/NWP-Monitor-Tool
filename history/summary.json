@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 699,
-    "timeDay": 617,
-    "timeWeek": 1159,
-    "timeMonth": 871,
+    "timeDay": 689,
+    "timeWeek": 1116,
+    "timeMonth": 849,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-04-25": 15
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 293,
-    "timeWeek": 499,
-    "timeMonth": 535,
-    "timeYear": 515,
+    "timeDay": 479,
+    "timeWeek": 476,
+    "timeMonth": 537,
+    "timeYear": 516,
     "dailyMinutesDown": {}
   },
   {
@@ -44,15 +44,15 @@
     "slug": "dental",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "96.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 639,
-    "timeDay": 619,
-    "timeWeek": 765,
-    "timeMonth": 767,
-    "timeYear": 666,
+    "timeDay": 718,
+    "timeWeek": 756,
+    "timeMonth": 757,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-04-26": 46
     }
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 851,
-    "timeWeek": 3484,
-    "timeMonth": 1443,
-    "timeYear": 787,
+    "timeDay": 707,
+    "timeWeek": 3453,
+    "timeMonth": 1419,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
-    "timeDay": 1563,
-    "timeWeek": 3172,
-    "timeMonth": 1292,
-    "timeYear": 706,
+    "timeDay": 697,
+    "timeWeek": 3089,
+    "timeMonth": 1266,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 582,
-    "timeWeek": 1133,
+    "time": 621,
+    "timeDay": 654,
+    "timeWeek": 1063,
     "timeMonth": 775,
-    "timeYear": 639,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 710,
-    "timeWeek": 898,
-    "timeMonth": 866,
-    "timeYear": 812,
+    "time": 800,
+    "timeDay": 1102,
+    "timeWeek": 959,
+    "timeMonth": 872,
+    "timeYear": 813,
     "dailyMinutesDown": {}
   },
   {
@@ -135,18 +135,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "down",
-    "uptime": "40.33%",
+    "uptime": "40.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "43.04%",
     "time": 466,
-    "timeDay": 299,
-    "timeWeek": 497,
-    "timeMonth": 443,
+    "timeDay": 367,
+    "timeWeek": 439,
+    "timeMonth": 441,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2025-04-27": 100,
+      "2025-04-28": 98,
+      "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -356,8 +357,7 @@
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
-      "2024-04-29": 1440,
-      "2024-04-28": 1440
+      "2024-04-29": 1440
     }
   },
   {
@@ -371,9 +371,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 269,
-    "timeWeek": 632,
+    "time": 345,
+    "timeDay": 398,
+    "timeWeek": 571,
     "timeMonth": 456,
     "timeYear": 369,
     "dailyMinutesDown": {}
@@ -390,10 +390,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 308,
-    "timeWeek": 538,
+    "timeDay": 397,
+    "timeWeek": 533,
     "timeMonth": 445,
-    "timeYear": 368,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -408,9 +408,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 294,
-    "timeWeek": 2443,
-    "timeMonth": 871,
+    "timeDay": 342,
+    "timeWeek": 2411,
+    "timeMonth": 869,
     "timeYear": 404,
     "dailyMinutesDown": {}
   }
