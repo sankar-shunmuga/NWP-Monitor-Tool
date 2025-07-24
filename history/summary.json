@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 710,
-    "timeWeek": 794,
-    "timeMonth": 692,
-    "timeYear": 777,
+    "time": 729,
+    "timeDay": 773,
+    "timeWeek": 748,
+    "timeMonth": 701,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2025-04-25": 15
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 611,
-    "timeWeek": 637,
-    "timeMonth": 588,
+    "timeDay": 533,
+    "timeWeek": 555,
+    "timeMonth": 583,
     "timeYear": 569,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 663,
-    "timeDay": 979,
-    "timeWeek": 691,
-    "timeMonth": 698,
-    "timeYear": 710,
+    "time": 664,
+    "timeDay": 682,
+    "timeWeek": 661,
+    "timeMonth": 702,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2025-04-26": 46
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
-    "timeDay": 872,
-    "timeWeek": 826,
-    "timeMonth": 836,
+    "timeDay": 710,
+    "timeWeek": 803,
+    "timeMonth": 837,
     "timeYear": 836,
     "dailyMinutesDown": {}
   },
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 740,
-    "timeWeek": 737,
-    "timeMonth": 685,
+    "timeDay": 759,
+    "timeWeek": 754,
+    "timeMonth": 693,
     "timeYear": 737,
     "dailyMinutesDown": {}
   },
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
-    "timeDay": 756,
-    "timeWeek": 853,
-    "timeMonth": 760,
-    "timeYear": 684,
+    "timeDay": 654,
+    "timeWeek": 864,
+    "timeMonth": 763,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 889,
-    "timeWeek": 1007,
-    "timeMonth": 923,
-    "timeYear": 846,
+    "time": 823,
+    "timeDay": 941,
+    "timeWeek": 1018,
+    "timeMonth": 930,
+    "timeYear": 847,
     "dailyMinutesDown": {}
   },
   {
@@ -135,16 +135,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "up",
-    "uptime": "41.14%",
+    "uptime": "41.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "54.46%",
-    "time": 488,
-    "timeDay": 876,
-    "timeWeek": 820,
-    "timeMonth": 741,
-    "timeYear": 520,
+    "uptimeYear": "54.73%",
+    "time": 489,
+    "timeDay": 1040,
+    "timeWeek": 902,
+    "timeMonth": 759,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2025-07-01": 22,
       "2025-06-11": 574,
@@ -315,8 +315,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -331,9 +330,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 410,
-    "timeWeek": 364,
-    "timeMonth": 421,
+    "timeDay": 418,
+    "timeWeek": 354,
+    "timeMonth": 424,
     "timeYear": 410,
     "dailyMinutesDown": {}
   },
@@ -349,10 +348,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 740,
-    "timeWeek": 425,
-    "timeMonth": 414,
-    "timeYear": 401,
+    "timeDay": 483,
+    "timeWeek": 448,
+    "timeMonth": 420,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -367,10 +366,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 405,
-    "timeWeek": 452,
-    "timeMonth": 434,
-    "timeYear": 438,
+    "timeDay": 381,
+    "timeWeek": 442,
+    "timeMonth": 437,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   }
 ]
