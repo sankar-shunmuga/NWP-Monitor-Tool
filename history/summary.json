@@ -4,18 +4,19 @@
     "url": "https://library.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/library.hee.nhs.uk.ico",
     "slug": "lks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 1102,
-    "timeWeek": 971,
-    "timeMonth": 891,
-    "timeYear": 830,
+    "time": 761,
+    "timeDay": 673,
+    "timeWeek": 880,
+    "timeMonth": 870,
+    "timeYear": 828,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-04-25": 15
     }
   },
@@ -24,36 +25,39 @@
     "url": "https://digital-transformation.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/digital-transformation.hee.nhs.uk.ico",
     "slug": "digital-transformation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 1097,
-    "timeWeek": 723,
-    "timeMonth": 565,
-    "timeYear": 596,
-    "dailyMinutesDown": {}
+    "timeDay": 660,
+    "timeWeek": 661,
+    "timeMonth": 554,
+    "timeYear": 595,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Dental",
     "url": "https://dental.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/dental.hee.nhs.uk.ico",
     "slug": "dental",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 691,
-    "timeDay": 814,
-    "timeWeek": 774,
-    "timeMonth": 746,
-    "timeYear": 752,
+    "timeDay": 535,
+    "timeWeek": 709,
+    "timeMonth": 731,
+    "timeYear": 751,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-04-26": 46
     }
   },
@@ -62,36 +66,40 @@
     "url": "https://medical.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/medical.hee.nhs.uk.ico",
     "slug": "medical",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 766,
-    "timeWeek": 1098,
-    "timeMonth": 907,
-    "timeYear": 894,
-    "dailyMinutesDown": {}
+    "time": 815,
+    "timeDay": 513,
+    "timeWeek": 993,
+    "timeMonth": 886,
+    "timeYear": 892,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "GP Recruitment",
     "url": "https://gprecruitment.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/gprecruitment.hee.nhs.uk.ico",
     "slug": "gp-recruitment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 713,
-    "timeDay": 481,
-    "timeWeek": 832,
-    "timeMonth": 786,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "timeDay": 416,
+    "timeWeek": 772,
+    "timeMonth": 772,
+    "timeYear": 780,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "GP Recruitment Prod",
@@ -100,9 +108,9 @@
     "slug": "gp-recruitment-prod",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 680,
     "timeDay": 496,
@@ -110,7 +118,7 @@
     "timeMonth": 752,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 11
     }
   },
   {
@@ -120,9 +128,9 @@
     "slug": "kfh-library-services",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 982,
@@ -130,7 +138,7 @@
     "timeMonth": 924,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 11
     }
   },
   {
@@ -139,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "down",
-    "uptime": "44.86%",
+    "uptime": "44.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.49%",
-    "uptimeYear": "70.98%",
+    "uptimeMonth": "69.47%",
+    "uptimeYear": "70.97%",
     "time": 537,
     "timeDay": 320,
     "timeWeek": 439,
     "timeMonth": 663,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-10-02": 819,
+      "2025-10-02": 830,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -271,9 +279,9 @@
     "slug": "webstie-testing",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 501,
@@ -281,7 +289,7 @@
     "timeMonth": 464,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 11
     }
   },
   {
@@ -289,18 +297,20 @@
     "url": "https://feedback.hee.nhs.uk",
     "icon": "https://icons.duckduckgo.com/ip3/feedback.hee.nhs.uk.ico",
     "slug": "feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
-    "timeDay": 307,
-    "timeWeek": 372,
-    "timeMonth": 401,
-    "timeYear": 429,
-    "dailyMinutesDown": {}
+    "timeDay": 313,
+    "timeWeek": 365,
+    "timeMonth": 398,
+    "timeYear": 428,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Workforce Education",
@@ -309,9 +319,9 @@
     "slug": "workforce-education",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 390,
@@ -319,7 +329,7 @@
     "timeMonth": 451,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 11
     }
   }
 ]
