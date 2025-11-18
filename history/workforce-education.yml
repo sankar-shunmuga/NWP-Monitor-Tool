@@ -1,7 +1,7 @@
 url: https://workforce-education.hee.nhs.uk
-status: down
-code: 500
-responseTime: 212
-lastUpdated: 2025-11-18T11:43:51.588Z
+status: up
+code: 401
+responseTime: 318
+lastUpdated: 2025-11-18T11:54:09.449Z
 startTime: 2023-05-10T17:55:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
