@@ -1,7 +1,7 @@
 url: https://dental.hee.nhs.uk
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2025-11-18T12:37:44.694Z
+status: down
+code: 500
+responseTime: 191
+lastUpdated: 2025-11-18T13:19:14.028Z
 startTime: 2023-04-25T17:58:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
