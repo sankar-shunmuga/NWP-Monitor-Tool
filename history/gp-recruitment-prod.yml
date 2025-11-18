@@ -1,7 +1,7 @@
 url: https://gprecruitment-prod.hee.nhs.uk
-status: down
-code: 500
-responseTime: 354
-lastUpdated: 2025-11-18T11:43:40.576Z
+status: up
+code: 200
+responseTime: 609
+lastUpdated: 2025-11-18T12:37:52.943Z
 startTime: 2023-05-03T12:06:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
