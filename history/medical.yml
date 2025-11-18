@@ -1,7 +1,7 @@
 url: https://medical.hee.nhs.uk
-status: down
-code: 500
-responseTime: 193
-lastUpdated: 2025-11-18T13:19:16.014Z
+status: up
+code: 200
+responseTime: 543
+lastUpdated: 2025-11-18T14:54:24.361Z
 startTime: 2023-04-25T17:58:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
