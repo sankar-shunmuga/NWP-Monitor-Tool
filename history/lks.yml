@@ -1,7 +1,7 @@
 url: https://library.hee.nhs.uk
-status: down
-code: 500
-responseTime: 881
-lastUpdated: 2025-12-05T08:59:27.729Z
+status: up
+code: 200
+responseTime: 865
+lastUpdated: 2025-12-05T09:30:15.939Z
 startTime: 2023-04-25T17:58:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
