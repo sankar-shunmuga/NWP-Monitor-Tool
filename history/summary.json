@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 737,
-    "timeDay": 643,
-    "timeWeek": 692,
-    "timeMonth": 694,
+    "time": 736,
+    "timeDay": 513,
+    "timeWeek": 658,
+    "timeMonth": 678,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/digital-transformation.hee.nhs.uk.ico",
     "slug": "digital-transformation",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 513,
-    "timeDay": 439,
-    "timeWeek": 471,
-    "timeMonth": 491,
+    "time": 511,
+    "timeDay": 303,
+    "timeWeek": 447,
+    "timeMonth": 471,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 683,
-    "timeDay": 484,
-    "timeWeek": 710,
-    "timeMonth": 690,
-    "timeYear": 694,
+    "time": 682,
+    "timeDay": 449,
+    "timeWeek": 672,
+    "timeMonth": 681,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 769,
-    "timeDay": 586,
-    "timeWeek": 827,
-    "timeMonth": 776,
+    "time": 768,
+    "timeDay": 571,
+    "timeWeek": 792,
+    "timeMonth": 768,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 729,
-    "timeDay": 563,
-    "timeWeek": 839,
-    "timeMonth": 743,
+    "timeDay": 487,
+    "timeWeek": 758,
+    "timeMonth": 726,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 708,
-    "timeDay": 591,
-    "timeWeek": 698,
-    "timeMonth": 774,
+    "timeDay": 633,
+    "timeWeek": 701,
+    "timeMonth": 770,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -131,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 889,
-    "timeDay": 633,
-    "timeWeek": 932,
-    "timeMonth": 890,
-    "timeYear": 897,
+    "timeDay": 814,
+    "timeWeek": 933,
+    "timeMonth": 887,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -145,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "up",
-    "uptime": "44.01%",
+    "uptime": "44.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.82%",
+    "uptimeYear": "48.10%",
     "time": 474,
-    "timeDay": 498,
-    "timeWeek": 446,
-    "timeMonth": 393,
+    "timeDay": 297,
+    "timeWeek": 428,
+    "timeMonth": 390,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2026-05-07": 881,
@@ -323,7 +323,6 @@
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
-      "2025-11-21": 1440,
       "2026-06-11": 1091,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -362,9 +361,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 474,
-    "timeDay": 400,
-    "timeWeek": 456,
-    "timeMonth": 433,
+    "timeDay": 273,
+    "timeWeek": 443,
+    "timeMonth": 426,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -382,9 +381,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 410,
-    "timeDay": 314,
-    "timeWeek": 444,
-    "timeMonth": 427,
+    "timeDay": 273,
+    "timeWeek": 424,
+    "timeMonth": 420,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -402,9 +401,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 434,
-    "timeDay": 281,
-    "timeWeek": 429,
-    "timeMonth": 441,
+    "timeDay": 436,
+    "timeWeek": 420,
+    "timeMonth": 428,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-12-05": 31
