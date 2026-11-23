@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.hee.nhs.uk.ico",
     "slug": "lks",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 735,
-    "timeDay": 546,
-    "timeWeek": 644,
-    "timeMonth": 666,
-    "timeYear": 738,
+    "time": 734,
+    "timeDay": 424,
+    "timeWeek": 614,
+    "timeMonth": 659,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 510,
-    "timeDay": 436,
-    "timeWeek": 445,
-    "timeMonth": 473,
-    "timeYear": 511,
+    "timeDay": 309,
+    "timeWeek": 428,
+    "timeMonth": 465,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 682,
-    "timeDay": 513,
-    "timeWeek": 652,
-    "timeMonth": 679,
-    "timeYear": 693,
+    "timeDay": 463,
+    "timeWeek": 631,
+    "timeMonth": 671,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 768,
-    "timeDay": 884,
-    "timeWeek": 815,
-    "timeMonth": 772,
-    "timeYear": 784,
+    "timeDay": 633,
+    "timeWeek": 804,
+    "timeMonth": 768,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 729,
-    "timeDay": 805,
-    "timeWeek": 718,
-    "timeMonth": 713,
-    "timeYear": 752,
+    "timeDay": 470,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -105,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gprecruitment-prod.hee.nhs.uk.ico",
     "slug": "gp-recruitment-prod",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 707,
-    "timeDay": 507,
-    "timeWeek": 681,
-    "timeMonth": 758,
+    "time": 708,
+    "timeDay": 756,
+    "timeWeek": 698,
+    "timeMonth": 746,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 889,
-    "timeDay": 920,
-    "timeWeek": 947,
-    "timeMonth": 894,
-    "timeYear": 897,
+    "time": 888,
+    "timeDay": 563,
+    "timeWeek": 886,
+    "timeMonth": 882,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -145,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.hee.nhs.uk.ico",
     "slug": "staging",
     "status": "up",
-    "uptime": "44.09%",
+    "uptime": "44.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.36%",
+    "uptimeYear": "48.65%",
     "time": 473,
-    "timeDay": 306,
-    "timeWeek": 414,
-    "timeMonth": 389,
-    "timeYear": 426,
+    "timeDay": 595,
+    "timeWeek": 446,
+    "timeMonth": 391,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2026-05-07": 881,
       "2026-05-06": 1440,
@@ -321,7 +321,6 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
       "2026-06-11": 1091,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -360,10 +359,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 474,
-    "timeDay": 330,
-    "timeWeek": 435,
-    "timeMonth": 423,
-    "timeYear": 495,
+    "timeDay": 246,
+    "timeWeek": 408,
+    "timeMonth": 419,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -374,15 +373,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/feedback.hee.nhs.uk.ico",
     "slug": "feedback",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 409,
-    "timeDay": 273,
-    "timeWeek": 416,
-    "timeMonth": 415,
+    "timeDay": 257,
+    "timeWeek": 372,
+    "timeMonth": 402,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -400,9 +399,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 433,
-    "timeDay": 283,
-    "timeWeek": 412,
-    "timeMonth": 413,
+    "timeDay": 261,
+    "timeWeek": 385,
+    "timeMonth": 409,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-12-05": 31
